@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repo
 
 ```bash
-git clone git@github.com:rwalle61/shopping-cart-kata.git
+git clone git@github.com:rwalle61/basic-js.git
 ```
 
 Install dependencies
